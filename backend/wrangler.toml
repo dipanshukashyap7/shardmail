@@ -5,4 +5,4 @@ compatibility_date = "2024-04-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "shardmail-db"
-database_id = "8f98b262-a1f6-40b0-b0b4-ceb63fb35152"
+database_id = "a3507cf6-7a59-4966-b09c-ce5fb3f22098"
