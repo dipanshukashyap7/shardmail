@@ -11,8 +11,8 @@
     "d1:migrate:remote": "wrangler d1 migrations apply shardmail-db --remote"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20240405.0",
+    "@cloudflare/workers-types": "^5.20261120.1",
     "typescript": "^5.4.5",
-    "wrangler": "^3.50.0"
+    "wrangler": "^4.165.0"
   }
 }

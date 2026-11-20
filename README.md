@@ -132,6 +132,8 @@ ID is shown on the right side. It is a long hex string. Copy it.
      save it somewhere safe. You will type this same password into the app later.
 2. Secrets are never shown again after saving and never appear in logs.
 
+> **Note:** The API token and the account ID must be from the SAME Cloudflare account, and the `ADMIN_TOKEN` secret is a password the user invents. The workflow automatically creates the D1 database, resolves its database ID, and handles all configuration without any manual file edits.
+
 ### 3e. Run the deploy workflow
 
 1. In your fork: **Actions** tab → **Deploy Worker** workflow (left sidebar) →
